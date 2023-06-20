@@ -1,4 +1,8 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWR5OHI0eWc2ZWVjbmVnMnp2djB0enYxNXdpZTFobGlwZTh1NGh6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/U8LcvGPlbU03S/giphy.gif" alt="colorful_deadheads" height=150/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ252bDZkYnNlMG56OHE1cWJ0dWh0Yjg4Mmp6aHE3N3I0b252ZnI2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rd3Jm3TCYBXqtCLmyZ/giphy.gif" alt="hey_hey_deadhead" height=200/>
+</p>
+
 
 <!--
 **yelimot/yelimot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
