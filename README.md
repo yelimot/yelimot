@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWR5OHI0eWc2ZWVjbmVnMnp2djB0enYxNXdpZTFobGlwZTh1NGh6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/U8LcvGPlbU03S/giphy.gif" alt="grateful_deadheads"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJ1ZTVraWJ0NzJkeHBuNXI4MGVqcGZ0Mm1ueHExdHR4anF3Ynk2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vwFRcV9uptcjaXAgUy/giphy.gif" alt="welcoming_deadheads"/>
 </p>
 
 
